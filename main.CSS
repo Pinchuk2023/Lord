@@ -1,0 +1,9 @@
+.wrapper{
+    max-width: 1200px;
+    margin: 60px auto;
+    overflow: hidden;
+}
+
+.item{
+    margin: 40px 15px;
+}
